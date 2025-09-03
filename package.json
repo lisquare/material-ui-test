@@ -1,5 +1,5 @@
 {
-  "name": "@lisquare/material-ui-test",
+  "name": "material-ui-test",
   "version": "0.1.0",
   "private": false,
   "scripts": {
