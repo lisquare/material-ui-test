@@ -1,7 +1,7 @@
 {
   "name": "@mui/monorepo",
   "version": "7.3.2",
-  "private": true,
+  "private": false,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "proptypes": "tsx ./scripts/generateProptypes.ts",
