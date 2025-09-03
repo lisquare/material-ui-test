@@ -1,6 +1,6 @@
 {
-  "name": "@mui/monorepo",
-  "version": "7.3.2",
+  "name": "@lisquare/material-ui-test",
+  "version": "0.1.0",
   "private": false,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
